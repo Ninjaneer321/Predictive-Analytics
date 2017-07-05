@@ -1,0 +1,24 @@
+<html>
+<head>
+<h1><center>Predective Analysis</center></h1>
+</head>
+<body>
+<center>
+<form method='post' action='/head_tail'>
+<input type='submit' value='HEADTAIL'><br>
+</form>
+<form method='post' action='/count_item'>
+<input type='submit' value='COUNT'><br>
+</form>
+<form method='post' action='/customer'>
+<input type='submit' value='CUSTOMER_INPUT'><br>
+</form>
+<form method='post' action='/customer_count>
+<input type='submit' value='CUSTOMER_COUNT'><br>
+</form>
+</center>
+</body>
+</html>
+
+
+ 

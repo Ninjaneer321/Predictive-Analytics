@@ -1,0 +1,9 @@
+small	round	bred	smooth	light	sweet	apple
+medium	round	lred	grainy	light	s-sour	orange
+small	irreg	orang	smooth	light	sweet	orange
+medium	irreg	lred	smooth	medium	sweet	apple
+small	irreg	lred	grainy	medium	sour	orange
+small	round	bred	smooth	light	sweet	apple
+medium	smooth	bred	smooth	medium	s-sour	apple
+medium	irreg	orang	smooth	medium	sweet	apple
+medium	round	lred	grainy	light	sweet	orange

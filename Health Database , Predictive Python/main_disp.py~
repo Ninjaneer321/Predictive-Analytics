@@ -1,0 +1,7 @@
+from bottle import route,run,Bottle,template,request
+app=Bottle()
+
+@app.route('/')
+def home():
+	return template('home')
+run (app,host='localhost',port=7777,debug=True)
